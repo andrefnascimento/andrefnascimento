@@ -15,16 +15,16 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Andre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Andre-Wordpress" height="35" width="45" src="https://user-images.githubusercontent.com/47148355/205492383-02617b38-427b-4182-b70a-1c2b2541c9de.svg" />
-  <img align="center" alt="Andre-MicrosoftServer" height="35" width="45" src="https://user-images.githubusercontent.com/47148355/205493486-ab931f25-eda4-418e-b734-4506159d5c80.svg" />
-<img align="center" alt="Andre-Photoshop" height="35" width="45" src="https://user-images.githubusercontent.com/47148355/205493673-17df2e1e-6a3e-45da-b71e-8a436fbac3bb.svg" />
+    <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Andre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Andre-Wordpress" height="35" width="45" src="https://user-images.githubusercontent.com/47148355/205492383-02617b38-427b-4182-b70a-1c2b2541c9de.svg" />
+    <img align="center" alt="Andre-MicrosoftServer" height="35" width="45" src="https://user-images.githubusercontent.com/47148355/205493486-ab931f25-eda4-418e-b734-4506159d5c80.svg" />
+    <img align="center" alt="Andre-Photoshop" height="35" width="45" src="https://user-images.githubusercontent.com/47148355/205493673-17df2e1e-6a3e-45da-b71e-8a436fbac3bb.svg" />
 
-  <!--- <img align="right" alt="Andre-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
-  
-  ##
+
+ ##
+<div> </div>
