@@ -1,4 +1,4 @@
-### Olá eu sou o André Analista de Negócios teste.
+### Olá eu sou o André Analista de Negócios.
 
 - 🔭 Hoje trabalho com Análise de Negócios
 - 🌱 Atualmente estou aprendendo Javascript e React Native
