@@ -5,7 +5,6 @@
 - 👯 Estou procurando colaborar em Inovação
 - 💬 Pergunte me sobre desenvolvimento pessoal
 - 📫 Fale comigo no Linkedin @andrefnascimento
-- 😄 Apelidos: Gigante, Leão, Andrezinho, Andrezão
 - ⚡ Curiosidade estou cursando Bacharelado em Educação Física
 
   ##
