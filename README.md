@@ -6,8 +6,9 @@
 - 💬 Pergunte me sobre desenvolvimento pessoal
 - 📫 Fale comigo no Linkedin @andrefnascimento
 - 😄 Apelidos: Gigante, Leão, Andrezinho, Andrezão
-- ⚡ Curiosidade estou estudando Bacharelado em Educação Física
+- ⚡ Curiosidade estou cursando Bacharelado em Educação Física
 
+  ##
 <div align="center">
   <a href="https://github.com/andrefnascimento">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrefnascimento&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -20,14 +21,11 @@
   <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Andre-Wordpress" height="30" width="40" src="https://user-images.githubusercontent.com/47148355/205492383-02617b38-427b-4182-b70a-1c2b2541c9de.svg" />
+  <img align="center" alt="Andre-Wordpress" height="35" width="45" src="https://user-images.githubusercontent.com/47148355/205492383-02617b38-427b-4182-b70a-1c2b2541c9de.svg" />
+  <img align="center" alt="Andre-MicrosoftServer" height="35" width="45" src="https://user-images.githubusercontent.com/47148355/205493486-ab931f25-eda4-418e-b734-4506159d5c80.svg" />
+<img align="center" alt="Andre-Photoshop" height="35" width="45" src="https://user-images.githubusercontent.com/47148355/205493673-17df2e1e-6a3e-45da-b71e-8a436fbac3bb.svg" />
+
   <!--- <img align="right" alt="Andre-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
   ##
-<div>
-    <a href="https://instagram.com/andreefn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "andrefnascimento@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/andrefnascimento" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/euandrefn" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-</div>
