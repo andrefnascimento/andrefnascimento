@@ -5,7 +5,7 @@
 - 👯 Estou procurando colaborar em Inovação
 - 💬 Pergunte me sobre desenvolvimento pessoal
 - 📫 Fale comigo no Linkedin @andrefnascimento
-- ⚡ Curiosidade estou cursando Bacharelado em Educação Física
+- ⚡ Curiosidade: atuo há uma década com sistemas ERP
 
   ##
 <div align="center">
